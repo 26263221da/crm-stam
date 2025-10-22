@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* אפשר גם להוסיף עיצוב מותאם אישית */
+body {
+  direction: rtl;
+  font-family: Arial, sans-serif;
+}
